@@ -1,0 +1,13 @@
+.env
+.env.backup
+.env.production
+.git
+.github
+tests
+node_modules
+database/*.sqlite
+database/*.sqlite-journal
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
