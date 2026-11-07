@@ -50,17 +50,17 @@
                         </a>
                     </li>
                     <li>
-                        <a href="{{ route('check-link') }}" class="text-sm text-slate-400 hover:text-white transition-colors flex items-center gap-1.5">
+                        <a href="{{ route('check-link.index') }}" class="text-sm text-slate-400 hover:text-white transition-colors flex items-center gap-1.5">
                             <i data-lucide="chevron-right" class="w-3 h-3 text-blue-500"></i> Check a Link
                         </a>
                     </li>
                     <li>
-                        <a href="{{ route('scam-simulator') }}" class="text-sm text-slate-400 hover:text-white transition-colors flex items-center gap-1.5">
+                        <a href="{{ route('simulator.index') }}" class="text-sm text-slate-400 hover:text-white transition-colors flex items-center gap-1.5">
                             <i data-lucide="chevron-right" class="w-3 h-3 text-blue-500"></i> Scam Simulator
                         </a>
                     </li>
                     <li>
-                        <a href="{{ route('how-it-works') }}" class="text-sm text-slate-400 hover:text-white transition-colors flex items-center gap-1.5">
+                        <a href="{{ route('how-it-works.index') }}" class="text-sm text-slate-400 hover:text-white transition-colors flex items-center gap-1.5">
                             <i data-lucide="chevron-right" class="w-3 h-3 text-blue-500"></i> How It Works
                         </a>
                     </li>
